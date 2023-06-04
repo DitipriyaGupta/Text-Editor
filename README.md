@@ -1,7 +1,7 @@
 # Text-Editor
 
 
-A text editor built using HTML,CSS,JS.
+Developed a text editor using HTML,CSS,JS. User can use different font styles and sizes. Bulletins can also be added.
 ## Features
 - Add photos and links
 - Add Font size and Font colors
